@@ -1,0 +1,9 @@
+##istruzioni per eseguire il programma
+
+1)Per compilare il programma,aprire il terminale con il percorso di questa cartella e digitare: make
+
+2)Successivamente per eseguire il gioco digitare: ./game
+
+3)Il gioco è impostato di default in modalità hard per mostrare fin da subito una versione di gioco più complessa;per impostare la modalità easy aprire il file "game.c",decommentare i valori della modalità easy e commentare quelli della modalità hard.
+
+Grazie per l'attenzione.
